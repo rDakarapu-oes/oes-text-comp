@@ -1,5 +1,9 @@
 {
   "name": "adapt-oes-text-custom-comp",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rDakarapu-oes/oes-text-comp.git"
+},
   "version": "0.0.1",
   "framework": ">=2",
   "description": "Please enter a description of your component here.",
@@ -7,7 +11,7 @@
   "displayName": "OES TEXT COMP",
   "main": "/js/adapt-oes-text-custom-comp.js",
   "authors": [
-    "Your Name <your.email@example.org>"
+    "Ravikanth Dakarapu <rDakarapu@oes.edu.au>"
   ],
   "keywords": [
     "adapt-plugin",
