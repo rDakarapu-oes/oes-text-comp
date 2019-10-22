@@ -29,5 +29,5 @@ define([
         template: "oes-text-custom-comp"
     });
 
-    return Adapt.register("adapt-oes-text-custom-comp", ComponentName);
+    return Adapt.register("oes-text-custom-comp", ComponentName);
 });
