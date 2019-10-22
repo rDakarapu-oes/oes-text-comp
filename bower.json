@@ -1,0 +1,17 @@
+{
+  "name": "adapt-oes-text-custom-comp",
+  "version": "0.0.1",
+  "framework": ">=2",
+  "description": "Please enter a description of your component here.",
+  "type": "component",
+  "displayName": "OES TEXT COMP",
+  "main": "/js/adapt-oes-text-custom-comp.js",
+  "authors": [
+    "Your Name <your.email@example.org>"
+  ],
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
